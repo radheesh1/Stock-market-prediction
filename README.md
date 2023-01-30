@@ -35,3 +35,5 @@ There are 25 columns of top news headlines for each day in the data
 frame.
 Class 1- the stock price increased.
 Class 0- the stock price stayed the same or decreased.
+# Google Colab :
+https://drive.google.com/drive/folders/122HPaf2B1e-6Uvps4oi3NZ6FtT-3ZSJh?usp=sharing
